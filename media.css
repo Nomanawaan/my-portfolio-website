@@ -1,8 +1,6 @@
 @media screen and (max-width: 575px) {
 
-    *{
-        height: auto;
-    }
+
     body{
         max-width: 100%;
     }
@@ -10,7 +8,7 @@
     /* nav css start */
     .logo {
         width: 22vw;
-        height: 6vw;
+        /* height: 6vw; */
     }
     .logo h2 {
         font-size: 3vw;
@@ -23,19 +21,19 @@
     /* hero sec css start */
     .hero-section {
         max-width: 100vw;
-        height: 150vw;
+        height: auto;
     }
 
     .hero-sec-inner {
         flex-direction: column;
         gap: 10vw;
-        height: 152vw;
+        height: auto;
         max-width: 90vw;
     }
 
     .hero-sec-left {
         max-width: 90vw;
-        height: 66vw;
+        height: auto;
     }
 
     .btns {
@@ -44,19 +42,19 @@
 
     .btn-left {
         width: 29vw;
-        height: 7vw;
+        height: auto;
         font-size: 4vw;
     }
 
     .btn-right {
         width: 37vw;
         font-size: 4vw;
-        height: 7vw;
+        height: auto;
     }
 
     .dot {
         width: 5vw;
-        height: 4vw;
+        height: auto;
     }
 
     .dot p {
