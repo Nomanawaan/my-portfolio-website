@@ -271,7 +271,7 @@
         height: 300vw;
         display: flex;
         flex-direction: column;
-        gap: 2vw;
+        gap: 5vw;
     }
 
     .box-a {
